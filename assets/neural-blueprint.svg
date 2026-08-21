@@ -49,7 +49,7 @@
   <circle cx="1020" cy="105" r="210" fill="url(#cyanGlow)"/>
   <path d="M 42 61 H 260" stroke="#39d9ff" stroke-opacity="0.7"/>
   <circle cx="276" cy="61" r="4" fill="#ffb547" class="amber"/>
-  <text x="44" y="44" fill="#79e6ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">PROFILE / 01</text>
+  <text x="44" y="44" fill="#79e6ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">PROFILE</text>
 
   <g fill="none" stroke-linecap="round">
     <path d="M 760 95 C 850 36, 940 54, 1020 112 S 1110 226, 1040 312" stroke="#2ccff5" stroke-opacity="0.18" stroke-width="2"/>
