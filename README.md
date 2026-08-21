@@ -19,7 +19,3 @@ I work primarily with Python, PyTorch, Transformers, FastAPI, Next.js, and TypeS
 - Agentic workflows with explicit tools and structured outputs
 - Reproducible ML experiments and lightweight production interfaces
 - Accessible interfaces for AI-powered systems
-
-## Portfolio
-
-[Professional portfolio](https://professional-website-delta.vercel.app)
